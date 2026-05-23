@@ -1,1 +1,1 @@
-from demo_json.parse import DemoJsonError, DemoJsonValue, parse_json
+from .parse import DemoJsonError, DemoJsonValue, parse_json
